@@ -14,4 +14,4 @@ This project provides a MATLAB implementation of the steady-state heat equation 
   Understanding steady-state solutions in 2D domains.
   Educational tool for learning finite element methods and PDE solving in MATLAB.
 
-# MM.Khaligh
+developed by MM.Khaligh (October 20, 2024)
